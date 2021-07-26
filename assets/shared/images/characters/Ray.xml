@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ray.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ray DOWN0000" x="0" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0001" x="0" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0002" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0003" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0004" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0005" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0006" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0007" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0008" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0009" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0010" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0011" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0012" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0013" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0014" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0015" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0016" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0017" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0018" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0019" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0020" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0021" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0022" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0023" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray DOWN0024" x="388" y="0" width="388" height="408"/>
+	<SubTexture name="Ray IDLE-DANCE0000" x="776" y="0" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0001" x="1066" y="0" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0002" x="1356" y="0" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0003" x="1646" y="0" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0004" x="0" y="424" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0005" x="290" y="424" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0006" x="580" y="424" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0007" x="870" y="424" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0008" x="1160" y="424" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0009" x="1450" y="424" width="290" height="424"/>
+	<SubTexture name="Ray IDLE-DANCE0010" x="1740" y="424" width="290" height="424"/>
+	<SubTexture name="Ray LEFT0000" x="0" y="848" width="271" height="425" frameX="-1" frameY="0" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0001" x="0" y="848" width="271" height="425" frameX="-1" frameY="0" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0002" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0003" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0004" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0005" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0006" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0007" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0008" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0009" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0010" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0011" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0012" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0013" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0014" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0015" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0016" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0017" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0018" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0019" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0020" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0021" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0022" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0023" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray LEFT0024" x="271" y="848" width="271" height="426" frameX="0" frameY="-2" frameWidth="272" frameHeight="428"/>
+	<SubTexture name="Ray RIGHT0000" x="542" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0001" x="542" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0002" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0003" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0004" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0005" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0006" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0007" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0008" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0009" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0010" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0011" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0012" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0013" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0014" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0015" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0016" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0017" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0018" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0019" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0020" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0021" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0022" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0023" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray RIGHT0024" x="876" y="848" width="334" height="415"/>
+	<SubTexture name="Ray UP0000" x="1210" y="848" width="282" height="429" frameX="0" frameY="0" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0001" x="1210" y="848" width="282" height="429" frameX="0" frameY="0" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0002" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0003" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0004" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0005" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0006" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0007" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0008" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0009" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0010" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0011" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0012" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0013" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0014" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0015" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0016" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0017" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0018" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0019" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0020" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0021" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0022" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0023" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+	<SubTexture name="Ray UP0024" x="1492" y="848" width="282" height="430" frameX="-1" frameY="-2" frameWidth="283" frameHeight="432"/>
+</TextureAtlas>
